@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Voice AI (Deutsch)",
+  "description": "Ein Echtzeit-Sprachassistent, angetrieben von der Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
